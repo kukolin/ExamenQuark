@@ -1,3 +1,5 @@
+Código hecho por LUCAS ANEZIN
+
 Las respuestás a la sección teórica (parte H) se encuentran en el documento "Respuestas preguntas teóricas" en la raíz del repositorio.
 
 Instrucciones para la ejecución del programa: 
