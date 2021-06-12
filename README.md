@@ -1,1 +1,1 @@
-asd
+Instrucciones para la ejecución del programa: Descargar el repositorio y ejecutar el acceso directo llamado "ExamenQuark.exe.lnk" ubicado en la raíz del mismo. O en su defecto, ejecutar el archivo "ExamenQuark.exe" dentro de la carpeta "Archivos de aplicación".
